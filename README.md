@@ -7,14 +7,13 @@
 
 - 🌱 I’m currently learning **MERN, the final stage of the Bootcamp**
 
-- 👨‍💻 All of my projects are available at [https://taliitacamargo.github.io/My-portfolio/index.html](https://taliitacamargo.github.io/My-portfolio/index.html)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://taliitacamargo.github.io/My-portfolio/index.html)
 
 - 💬 Ask me about **react, MongoDB, MySQL**
 
 - 📫 How to reach me **taliitacamargo@icloud.com**
-- https://taliitacamargo.github.io/My-portfolio/
 
-- 📄 Know about my experiences [https://taliitacamargo.github.io/My-portfolio/Assets/PDF/resume.pdf](https://taliitacamargo.github.io/My-portfolio/Assets/PDF/resume.pdf)
+- 📄 Know about my experiences [Resume](https://taliitacamargo.github.io/My-portfolio/Assets/PDF/resume.pdf)
 
 - ⚡ Fun fact **I work with vehicle transportation 🏎**
 
