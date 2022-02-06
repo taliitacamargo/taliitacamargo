@@ -12,6 +12,7 @@
 - 💬 Ask me about **react, MongoDB, MySQL**
 
 - 📫 How to reach me **taliitacamargo@icloud.com**
+- **https://taliitacamargo.github.io/My-portfolio/**
 
 - 📄 Know about my experiences [https://taliitacamargo.github.io/My-portfolio/Assets/PDF/resume.pdf](https://taliitacamargo.github.io/My-portfolio/Assets/PDF/resume.pdf)
 
