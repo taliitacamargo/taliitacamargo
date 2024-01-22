@@ -7,15 +7,7 @@
 
 - 🌱 I’m currently learning **MERN, the final stage of the Bootcamp**
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://taliitacamargo.github.io/My-portfolio/index.html)
-
-- 💬 Ask me about **react, MongoDB, MySQL**
-
-- 📫 How to reach me **taliitacamargo@icloud.com**
-
-- 📄 Know about my experiences [Resume](https://taliitacamargo.github.io/My-portfolio/Assets/PDF/resume.pdf)
-
-- ⚡ Fun fact **I work with vehicle transportation 🏎**
+- 💬 Ask me about **react, MongoDB, MySQL**l
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
