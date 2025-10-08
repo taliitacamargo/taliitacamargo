@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taliitacamargo&label=Profile%20views&color=0e75b6&style=flat" alt="taliitacamargo" /> </p>
 
-- 🔭 I’m currently working on [Card Graphix](https://github.com/taliitacamargo/card-graphix)
+- 🔭 I’m currently working on Time To Flex App
 
-- 🌱 I’m currently learning **MERN, the final stage of the Bootcamp**
+- 🌱 I’m currently learning **Sorting Algorithms**
 
 - 💬 Ask me about **react, MongoDB, MySQL**l
 
