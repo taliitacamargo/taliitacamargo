@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talita</h1>
-<h3 align="center">A UPenn Bootcamp Full-Stack-Developer Student 🤓</h3>
+<h3 align="center">A UPenn Bootcamp Full-Stack-Developer Alumni Pursuing a Degree in Computer Science 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taliitacamargo&label=Profile%20views&color=0e75b6&style=flat" alt="taliitacamargo" /> </p>
 
