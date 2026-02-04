@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Time To Flex App
 
-- 🌱 I’m currently learning **Sorting Algorithms**
+- 🌱 I’m currently learning **Statistics For Computing Data**
 
 - 💬 Ask me about **react, MongoDB, MySQL**l
 
