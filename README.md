@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Organization With MIPS**
 
-- 💬 Ask me about **Assembly Language**l
+- 💬 Ask me about **Assembly Language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
