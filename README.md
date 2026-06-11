@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Dreamer Innovation Labs' Projects
 
-- 🌱 I’m currently learning **Computer Organization With MIPS**
+- 🌱 I’m currently learning **Computer Organization With MIPS & Python Language**
 
 - 💬 Ask me about **Assembly Language**
 
