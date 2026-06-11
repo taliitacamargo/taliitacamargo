@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taliitacamargo&label=Profile%20views&color=0e75b6&style=flat" alt="taliitacamargo" /> </p>
 
-- 🔭 I’m currently working on Time To Flex App
+- 🔭 I’m currently working on Dreamer Innovation Labs' Projects
 
-- 🌱 I’m currently learning **Statistics For Computing Data**
+- 🌱 I’m currently learning **Computer Organization With MIPS**
 
-- 💬 Ask me about **react, MongoDB, MySQL**l
+- 💬 Ask me about **Assembly Language**l
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
